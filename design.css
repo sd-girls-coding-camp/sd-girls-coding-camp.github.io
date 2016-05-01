@@ -2,6 +2,14 @@ body {
 	background-image: url("bluepic.jpg");
 }
 
+#container {
+	padding-left: 10%;
+    	padding-right: 10%;
+    	max-width: 700px;
+    	margin-right: auto;
+    	margin-left: auto;
+}
+
 .footer {
 	color:white;
 }
