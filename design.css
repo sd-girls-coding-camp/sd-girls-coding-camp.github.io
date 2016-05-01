@@ -1,6 +1,10 @@
 body {
 	background-image: url("bluepic.jpg");
 }
+
+.footer {
+	color:white;
+}
 .signup {
  	background-color: #ffffcc;
         font-size: 13px;
@@ -9,6 +13,13 @@ body {
 	border-radius: 10%;
 }
 
+table {
+	text-align:center;
+}
+
+.left {
+	text-align:left;
+}
 
 a {
 text-decoration: none;
