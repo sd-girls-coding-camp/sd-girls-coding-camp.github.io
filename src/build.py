@@ -14,4 +14,4 @@ for file in os.listdir("."):
 		print("Building ../{}".format(file))
 		input = open(file, 'r').read()
 		output = open("../{}".format(file), 'w')
-		output.write("{}\n{}\n{}".format(header, input, footer))
+		output.write("<!-- AUTO GENERATED DO NOT EDIT!!! EDIT THIS FILE IN src/<filename> INSTEAD -->\n{}\n{}\n{}".format(header, input, footer))
