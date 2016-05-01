@@ -34,6 +34,11 @@ text-decoration: none;
 color: white;
 }
 
+.email {
+	text-decoration:underline;
+	color: -webkit-link;
+}
+
 .signup a {
 	text-decoration: none;
 	color: black;
