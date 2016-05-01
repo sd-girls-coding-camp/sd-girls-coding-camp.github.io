@@ -15,7 +15,7 @@
 		<div class="dropdown">
 			<button onclick="dropdownToggle(this)" class="dropbutton">About</button>
 			<div class="dropdown_content">
-				<a href="camp_information.php">Camp Information</a>
+				<a href="camp_information.html">Camp Information</a>
 				<a href="#">Camp Instructors</a>
 			</div>
 		</div>
