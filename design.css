@@ -9,6 +9,12 @@ body {
 	border-radius: 10%;
 }
 
+
+a {
+text-decoration: none;
+color: white;
+}
+
 .signup a {
 	text-decoration: none;
 	color: black;
