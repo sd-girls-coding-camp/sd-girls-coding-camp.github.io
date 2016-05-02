@@ -12,6 +12,10 @@ h2, h4 {
 	
 }
 
+.norm_link{
+	text-decoration:none;
+	color: black;
+}
 .page_title {
 	text-align:center;
 }
