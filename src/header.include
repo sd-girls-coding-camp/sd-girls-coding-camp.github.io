@@ -4,7 +4,7 @@
 </head>
 <body>
 	<div>
-		<button class="signup"><a href="http://google.com">SIGN UP!</a></button>
+		<button class="signup"><a href="http://goo.gl/forms/OPAmHMd4Bb">SIGN UP!</a></button>
 	</div>
 	<div id="menus">
 		<div class="dropdown">
@@ -20,10 +20,10 @@
 			</div>
 		</div>
 		<div class="dropdown">
-			<button onclick="dropdownToggle(this)" class="dropbutton">Resources</button>
+			<button onclick="dropdownToggle(this)" class="dropbutton">Resources (Coming Soon!)</button>
 			<div class="dropdown_content">
-				<a href="#">How to Get Into Programming</a>
-				<a href="#">Camp Graduates Resources</a>
+				<a href="#">How to Get Into Programming (Coming Soon!)</a>
+				<a href="#">Camp Graduates Resources (Coming Soon!)</a>
 			</div>
 		</div>
 	</div>
