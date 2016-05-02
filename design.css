@@ -2,6 +2,25 @@ body {
 	background-image: url("bluepic.jpg");
 }
 
+h2, h4 {
+	margin-top: 4px;
+	margin-bottom: 0px;
+	color:#404040;
+	
+}
+
+.page_title {
+	text-align:center;
+}
+
+h1 {
+	font-weight:bold;
+}
+
+h4 {
+	font-style: italic;
+}
+
 #container {
 	padding-left: 10%;
     	padding-right: 10%;
@@ -11,14 +30,19 @@ body {
 }
 
 .footer {
-	color:white;
+	color:lightslategray;
+	text-align:-webkit-auto;
+	padding-top: 10px;
+	border-top: lightgray;
+	border-top-style: solid;
 }
 .signup {
- 	background-color: #ffffcc;
-        font-size: 13px;
+ 	background-color: #4073bf;
+        font-size: 17px;
         border: none;
         cursor: pointer;
 	border-radius: 10%;
+	color:white;
 }
 
 table {
