@@ -45,11 +45,11 @@ h4 {
 }
 .signup {
  	background-color: #4073bf;
-        font-size: 17px;
-        border: none;
-        cursor: pointer;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
 	border-radius: 10%;
-	color:white;
+	color:black;
 }
 
 table {
