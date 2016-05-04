@@ -7,11 +7,7 @@
 		<button class="signup"><a href="http://goo.gl/forms/OPAmHMd4Bb">SIGN UP!</a></button>
 	</div>
 	<div id="menus">
-		<div class="dropdown">
-			<button onclick="dropdownToggle(this)" class="dropbutton"><a href="index.html">Home</a></button>
-			<div class="dropdown_content">
-			</div>
-		</div>
+		<button class="dropbutton" onclick="location.href='index.html'">Home</button>
 		<div class="dropdown">
 			<button onclick="dropdownToggle(this)" class="dropbutton">About</button>
 			<div class="dropdown_content">
