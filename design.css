@@ -12,10 +12,6 @@ h2, h4 {
 	
 }
 
-.norm_link{
-	text-decoration:none;
-	color: black;
-}
 .page_title {
 	text-align:center;
 }
@@ -45,11 +41,11 @@ h4 {
 }
 .signup {
  	background-color: #4073bf;
-        font-size: 17px;
-        border: none;
-        cursor: pointer;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
 	border-radius: 10%;
-	color:white;
+	color:black;
 }
 
 table {
@@ -58,11 +54,6 @@ table {
 
 .left {
 	text-align:left;
-}
-
-a {
-text-decoration: none;
-color: white;
 }
 
 .email {
