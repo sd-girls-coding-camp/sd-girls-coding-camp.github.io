@@ -21,8 +21,8 @@
 			<button onclick="dropdownToggle(this)" class="dropbutton">Resources (Coming Soon!)</button>
 			<div class="dropdown_content">
 				<a href="#">How to Get Into Programming (Coming Soon!)</a>
-				<a href="#">Beginner Instructional Slides (Coming Soon!)</a>
-				<a href="#">Intermediate Instructional Slides (Coming Soon!)</a>
+				<a href="beginner_slides.html">Beginner Instructional Slides</a>
+				<a href="intermediate_slides.html">Intermediate Instructional Slides</a>
 				<a href="#">Camp Graduates Resources (Coming Soon!)</a>
 			</div>
 		</div>
